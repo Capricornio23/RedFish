@@ -10,13 +10,13 @@ $ cd RedFish
 
 $ chmod +x setup
 
-@ Para Kali Linux 
+# Para Kali Linux 
 
 rootkali# bash setup
 
 rootkali# bash RedFish
 
-@ Para Termux
+# Para Termux
 
 $ bash tmux_setup
 
