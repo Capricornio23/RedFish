@@ -1,4 +1,7 @@
 # 🐟RedFish❤
+
+<span style="color: green"> Es una herramienta que genera links maliciosos(phishing) que sirve gracias a Ngrok </span>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4RqYpWhpFpUS0ZhwYUaGF74vjhHcR5FZuiQ&usqp=CAU" alt="RedFish" />
 # 🔰INSTALACIÓN🔰
 
